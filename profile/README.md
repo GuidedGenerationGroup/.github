@@ -6,8 +6,8 @@ We are **not a formal research group**, just a friendly space where PhD students
 - 📚 **Weekly Paper Discussions** (Invite-Only) — ~100+ members  
   → [Previous Reading Sessions](https://github.com/GuidedGenerationGroup/crisp-dl-read)
 - 🔬 **Occasional Collaborations** born from our discussions  
-  → [ImagenWorld](https://tiger-ai-lab.github.io/ImagenWorld/) (Preprint)  
-  → [TheoremExplainAgent](https://tiger-ai-lab.github.io/TheoremExplainAgent/) (ACL 2025 Oral)
+  → [ImagenWorld](https://tiger-ai-lab.github.io/ImagenWorld/) (collaboration with [Comfy Org](https://github.com/comfy-org), Preprint)  
+  → [TheoremExplainAgent](https://tiger-ai-lab.github.io/TheoremExplainAgent/) (collaboration with [Votee AI](https://votee.ai/), ACL 2025 Oral)
 
 ---
 
