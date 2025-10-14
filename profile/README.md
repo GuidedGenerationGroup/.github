@@ -1,12 +1,22 @@
-## Hi there 👋
+# 🧠 About Us
 
-<!--
+**G-G-G (Guided Generation Group)** is a **community of AI enthusiasts and young researchers** who love exploring papers together.  
+We are **not a formal research group**, just a friendly space where PhD students, early-career researchers, and curious minds connect, share ideas, and grow together.
 
-**Here are some ideas to get you started:**
+- 📚 **Weekly Paper Discussions** (Invite-Only) — ~100+ members  
+  → [Previous Reading Sessions](https://github.com/GuidedGenerationGroup/crisp-dl-read)
+- 🔬 **Occasional Collaborations** born from our discussions  
+  → [ImagenWorld](https://tiger-ai-lab.github.io/ImagenWorld/) (Preprint)  
+  → [TheoremExplainAgent](https://tiger-ai-lab.github.io/TheoremExplainAgent/) (ACL 2025 Oral)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 👥 Moderators
+
+Our moderators are active members who help keep the community open and engaging:
+
+- [**Max Ku**](https://kuwingfung.github.io/)  Current PhD student at UWaterloo
+- [**Kelly Chiu**](https://scholar.google.com/citations?user=8M1R70gAAAAJ&hl=en)  Current Master student at UWashington
+- [**Ray Tam**](https://scholar.google.com/citations?user=WVv1_h0AAAAJ&hl=en)  Current PhD student at NTU
+- [**Chiao Wei Hsu**](https://linkedin.com/in/chiao-wei-hsu)  Current MLE at Tesla
+- [**Pingbang Hu**](https://pbb.wtf/) Current PhD student at UIUC
