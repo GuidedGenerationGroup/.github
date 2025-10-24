@@ -4,7 +4,7 @@
 We are **not a formal research group**, just a friendly space where PhD students, early-career researchers, and curious minds connect, share ideas, and grow together.
 
 - 📚 **Weekly Paper Discussions** (Invite-Only) — ~100+ members  
-  → [Previous Reading Sessions](https://github.com/GuidedGenerationGroup/crisp-dl-read)
+  * [Previous Reading Sessions](https://github.com/GuidedGenerationGroup/crisp-dl-read)
 - 🔬 **Occasional Collaborations** born from our discussions  
   * [ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks](https://tiger-ai-lab.github.io/ImagenWorld/)
     * Preprint, collaboration with [Comfy Org](https://github.com/comfy-org)
