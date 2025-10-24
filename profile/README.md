@@ -9,7 +9,7 @@ We are **not a formal research group**, just a friendly space where PhD students
   * [ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks](https://tiger-ai-lab.github.io/ImagenWorld/)
     * Preprint, collaboration with [Comfy Org](https://github.com/comfy-org)
   * [Language Matters: How Do Multilingual Input and Reasoning Paths Affect Large Reasoning Models?](https://arxiv.org/abs/2505.17407)
-    * Preprint
+    * Preprint, collaboration with [Appier](https://www.appier.com/en/)
   * [TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding](https://tiger-ai-lab.github.io/TheoremExplainAgent/)
     * ACL 2025 Oral (Top 3% selected), collaboration with [Votee AI](https://votee.ai/)
 
