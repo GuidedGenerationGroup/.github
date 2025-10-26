@@ -6,11 +6,14 @@ We are **not a formal research group**, just a friendly space where PhD students
 - 📚 **Weekly Paper Discussions** (Invite-Only) — ~100+ members  
   * [Previous Reading Sessions](https://github.com/GuidedGenerationGroup/crisp-dl-read)
 - 🔬 **Occasional Collaborations** born from our discussions  
-  * [ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks](https://tiger-ai-lab.github.io/ImagenWorld/)
+  * [ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks.](https://tiger-ai-lab.github.io/ImagenWorld/)
+    * Samin Mahdizadeh Sani*, Max Ku*, Nima Jamali, Matina Mahdizadeh Sani, Paria Khoshtab, Wei-Chieh Sun, Parnian Fazel, Zhi Rui Tam, Thomas Chong, Edisy Kin Wai Chan, Donald Wai Tong Tsang, Chiao-Wei Hsu, Ting Wai Lam, Ho Yin Sam Ng, Chiafeng Chu, Chak-Wing Mak, Keming Wu, Hiu Tung Wong, Yik Chun Ho, Chi Ruan, Zhuofeng Li, I-Sheng Fang, Shih-Ying Yeh, Ho Kei Cheng, Ping Nie, Wenhu Chen
     * Preprint, collaboration with [Comfy Org](https://github.com/comfy-org)
   * [Language Matters: How Do Multilingual Input and Reasoning Paths Affect Large Reasoning Models?](https://arxiv.org/abs/2505.17407)
+    * Zhi Rui Tam, Cheng-Kuang Wu, Yu Ying Chiu, Chieh-Yen Lin, Yun-Nung Chen, Hung-yi Lee
     * Preprint, collaboration with [Appier](https://www.appier.com/en/)
-  * [TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding](https://tiger-ai-lab.github.io/TheoremExplainAgent/)
+  * [TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding.](https://tiger-ai-lab.github.io/TheoremExplainAgent/)
+    * Max Ku*, Thomas Chong*, Jonathan Leung, Krish Shah, Alvin Yu, Wenhu Chen 
     * ACL 2025 Oral (Top 3% selected), collaboration with [Votee AI](https://votee.ai/)
 
 ---
