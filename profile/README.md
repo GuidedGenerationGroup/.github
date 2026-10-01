@@ -23,7 +23,7 @@ We are **not a formal research group**, just a friendly space where PhD students
 Our moderators are active members who help keep the community open and engaging:
 
 - [**Max Ku**](https://kuwingfung.github.io/)  Current PhD student at UWaterloo
-- [**Kelly Chiu**](https://scholar.google.com/citations?user=8M1R70gAAAAJ&hl=en)  Current Master student at UWashington
+- [**Kelly Chiu**](https://scholar.google.com/citations?user=8M1R70gAAAAJ&hl=en)  Current PhD student at UC Berkeley
 - [**Ray Tam**](https://scholar.google.com/citations?user=WVv1_h0AAAAJ&hl=en)  Current PhD student at NTU
 - [**Chiao Wei Hsu**](https://linkedin.com/in/chiao-wei-hsu)  Current MLE at Tesla
 - [**Pingbang Hu**](https://pbb.wtf/) Current PhD student at UIUC
